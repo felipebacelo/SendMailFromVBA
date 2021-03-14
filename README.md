@@ -6,9 +6,9 @@
 
 # SendMailFromVBA
 
-Repositório com Simples Exemplo de Envio de Email em VBA
+Repositório com Simples Exemplo de Envio de E-mail em VBA Excel e Outlook
 
-Este respositório foi desenvolvido com o objetivo de automatizar o envio de e-mails utilizando VBA.
+Este respositório foi desenvolvido com o objetivo de automatizar o envio de e-mails utilizando VBA Excel e Outlook.
 
 ### Desenvolvimento
 
