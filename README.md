@@ -1,12 +1,12 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/felipebacelo/SendMailFromVBA?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/felipebacelo/SendMailFromVBA?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/felipebacelo/SendMailFromVBA?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/felipebacelo/SendMailFromVBA?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/felipebacelo/SendMailFromVBA?style=for-the-badge)
+<p align="center">
+<a href= "https://img.shields.io/github/repo-size/felipebacelo/SendMailFromVBA?style=for-the-badge"><img src="https://img.shields.io/github/repo-size/felipebacelo/SendMailFromVBA?style=for-the-badge"/></a>
+<a href= "https://img.shields.io/github/languages/count/felipebacelo/SendMailFromVBA?style=for-the-badge"><img src="https://img.shields.io/github/languages/count/felipebacelo/SendMailFromVBA?style=for-the-badge"/></a>
+<a href= "https://img.shields.io/github/forks/felipebacelo/SendMailFromVBA?style=for-the-badge"><img src="https://img.shields.io/github/forks/felipebacelo/SendMailFromVBA?style=for-the-badge"/></a>
+<a href= "https://img.shields.io/bitbucket/pr-raw/felipebacelo/SendMailFromVBA?style=for-the-badge"><img src="https://img.shields.io/bitbucket/pr-raw/felipebacelo/SendMailFromVBA?style=for-the-badge"/></a>
+<a href= "https://img.shields.io/bitbucket/issues/felipebacelo/SendMailFromVBA?style=for-the-badge"><img src="https://img.shields.io/bitbucket/issues/felipebacelo/SendMailFromVBA?style=for-the-badge"/></a>
+</p>
 
 # SendMailFromVBA
-
-Repositório com Simples Exemplo de Envio de E-mail em VBA Excel e Outlook
 
 Este respositório foi desenvolvido com o objetivo de automatizar o envio de e-mails utilizando VBA Excel e Outlook.
 
